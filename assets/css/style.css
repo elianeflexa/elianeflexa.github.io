@@ -222,7 +222,7 @@ h1, h2, h3, h4, h5, h6 {
   z-index: 0;
 }
 
-.crossfade > figure:nth-child(1) { background-image: url('/assets/img/profile-img.jpg'); }
+.crossfade > figure:nth-child(1) { background-image: url('/assets/img/hero-bg.jpg'); }
 
 .crossfade > figure:nth-child(2) {
   animation-delay: 6s;
