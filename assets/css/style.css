@@ -226,22 +226,22 @@ h1, h2, h3, h4, h5, h6 {
 
 .crossfade > figure:nth-child(2) {
   animation-delay: 6s;
-  background-image: url('/assets/img/o\ mistério\ de\ feiurinha\ -\ Bruxa\ MaIvada.jpg');
+  background-image: url('/assets/img/Eliane\ Flexa\ -\ Estúdio\ 28.jpg');
 }
 
 .crossfade > figure:nth-child(3) {
   animation-delay: 12s;
-  background-image: url('/assets/img/Édipo\ Rei\ -\ pastor.jpg');
+  background-image: url('/assets/img/Eliane\ Flexa\ -\ Externo\ 28.jpg');
 }
 
 .crossfade > figure:nth-child(4) {
   animation-delay: 18s;
-  background-image: url('/assets/img/apresentação\ de\ canto\ Uma\ noite\ na\ Broadway\ -\ \ fantasma\ da\ ópera\ -\ Cristine\ Daa.jpg');
+  background-image: url('/assets/img/Eliane\ Flexa\ -\ Externo\ 94.jpg');
 }
 
 .crossfade > figure:nth-child(5) {
   animation-delay: 24s;
-  background-image: url('/assets/img/Mitos\ -\ Jarina\ 2.jpg');
+  background-image: url('/assets/img/profile-img.jpg');
 }
 
 @keyframes 
