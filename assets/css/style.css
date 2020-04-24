@@ -1137,3 +1137,7 @@ section {
     padding-right: 20px 15px;
   }
 }
+
+.btn-roxo{background-color:rgb(72, 30, 121);
+    color: #FFF;}
+.btn-roxo:hover{color: #FFF;}
